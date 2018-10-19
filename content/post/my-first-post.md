@@ -1,7 +1,8 @@
 ---
 title: "Inskrypcja honoryfikacyjna dla Tation"
+description: "Najbliższe seminarium"
 date: 2018-10-19T20:54:31+01:00
-draft: true
+draft: false
 ---
 
 Dnia 25 października na seminarium późnoantycznym wystąpi Paweł Nowakowski z referatem pt. "Inskrypcja honoryfikacyjna dla Tation w świetle nowszych źródeł do historii Żydów w południowej Eolii w późnym antyku". 
