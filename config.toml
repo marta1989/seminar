@@ -2,7 +2,8 @@ baseURL = "https://pensive-newton-6b1a8f.netlify.com"
 languageCode = "en-us"
 canonifyurls = true
 paginate = 10
-title = "Late Antiquity Seminar"
+title = "Seminarium późnoantyczne Ewy Wipszyckiej /Ewa Wipszycka's Late Antique 
+Seminar"
 theme = "startbootstrap-clean-blog"
 
 [author]
