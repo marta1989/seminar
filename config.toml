@@ -2,7 +2,7 @@ baseURL = "https://pensive-newton-6b1a8f.netlify.com"
 languageCode = "en-us"
 canonifyurls = true
 paginate = 10
-title = "Seminarium późnoantyczne Ewy Wipszyckiej"
+title = "Ewa Wipszycka seminar"
 theme = "startbootstrap-clean-blog"
 
 [author]
@@ -10,9 +10,9 @@ name = "Marta Szada"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "The seminar gathers a group of historians, archaeologists, historians of Roman law, epigraphists, and classicists sharing interest in Late Antiquity. Guests, at any stage of their academic career, are more than welcome. If you would like to present a seminar paper, please contact Robert Wiśniewski. The seminar meets every Thursday, at 4.45 p.m. in the Library of Papyrology and Roman Law (Faculty of Law building), University main campus, Krakowskie Przedmieście 26 28."
+  Description = "The seminar gathers a group of historians, archaeologists, historians of Roman law, epigraphists, and classicists sharing interest in Late Antiquity."
   Author = "Marta Szada"
-  postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
+  postSummariesFrontPage = 3 #Number of post summaries to show on front page, comment out to allow default(4)
   
   [[menu.main]]
   name = "home"
